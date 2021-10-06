@@ -1,0 +1,4 @@
+language : scala
+sudo : false
+
+script : "mvn gatling:test -Dgaling.simulationClass=simulations.FullVideoGameDBTest"
