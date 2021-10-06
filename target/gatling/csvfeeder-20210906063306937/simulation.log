@@ -1,0 +1,13 @@
+RUN	simulations.CSVfeeder	csvfeeder	1630909986937	 	3.6.1
+USER	CSV feeder test	START	1630909988838
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/1 	1630909988933
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/2 	1630909989958
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/3 	1630909990970
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/4 	1630909991984
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/1 	1630909992992
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/2 	1630909993997
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/3 	1630909995007
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/4 	1630909996014
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/1 	1630909997022
+ERROR	Get Specific Game: Failed to build request: No baseUrl defined but provided url is relative : videogames/2 	1630909998027
+USER	CSV feeder test	END	1630909999041

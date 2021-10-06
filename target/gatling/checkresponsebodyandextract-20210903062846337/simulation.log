@@ -1,0 +1,6 @@
+RUN	simulations.CheckResponseBodyandExtract	checkresponsebodyandextract	1630650526337	 	3.6.1
+USER	Check JSON path	START	1630650528979
+REQUEST		Get Specific Game	1630650529044	1630650529753	OK	 
+REQUEST		Get All Games	1630650529864	1630650529872	OK	 
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630650529915
+USER	Check JSON path	END	1630650529931

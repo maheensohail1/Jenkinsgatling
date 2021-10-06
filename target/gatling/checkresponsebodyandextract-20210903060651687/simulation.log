@@ -1,0 +1,4 @@
+RUN	simulations.CheckResponseBodyandExtract	checkresponsebodyandextract	1630649211687	 	3.6.1
+USER	Check JSON path	START	1630649213663
+REQUEST		Get Specific Game	1630649213710	1630649214187	OK	 
+USER	Check JSON path	END	1630649214266

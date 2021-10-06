@@ -1,0 +1,6 @@
+RUN	simulations.CheckResponse	checkresponse	1630648380088	 	3.6.1
+USER	Video Game DB- 3 calls	START	1630648381873
+REQUEST		Get All Games- 1st call	1630648381908	1630648382358	KO	status.find.is(400), but actually found 200
+REQUEST		Get Specific Game	1630648387399	1630648387405	OK	 
+REQUEST		Get All Games- 2nd call	1630648394944	1630648394960	OK	 
+USER	Video Game DB- 3 calls	END	1630648397970

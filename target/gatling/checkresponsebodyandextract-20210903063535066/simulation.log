@@ -1,0 +1,6 @@
+RUN	simulations.CheckResponseBodyandExtract	checkresponsebodyandextract	1630650935066	 	3.6.1
+USER	Check JSON path	START	1630650936783
+REQUEST		Get Specific Game	1630650936832	1630650937360	OK	 
+REQUEST		Get All Games	1630650937443	1630650937449	OK	 
+REQUEST		Get Specific Game	1630650937472	1630650937480	KO	jsonPath($.name).find.is(Gran Turismo 4), but actually found Gran Turismo 3
+USER	Check JSON path	END	1630650937506

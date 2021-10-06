@@ -1,0 +1,13 @@
+RUN	simulations.CSVfeederToCustom	csvfeedertocustom	1630914317020	 	3.6.1
+USER	CSV feeder test	START	1630914318906
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914318937
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914319962
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914320969
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914321980
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914322994
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914324006
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914325018
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914326024
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914327037
+ERROR	Get Specific Game: Failed to build request: No attribute named 'gameId' is defined 	1630914328051
+USER	CSV feeder test	END	1630914329061

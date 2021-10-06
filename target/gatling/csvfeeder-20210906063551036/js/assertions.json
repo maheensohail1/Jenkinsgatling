@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.CSVfeeder",
+  "simulationId": "csvfeeder",
+  "start": 1630910151036,
+  "description": "",
+  "scenarios": ["CSV feeder test"],
+  "assertions": [
+
+  ]
+}
